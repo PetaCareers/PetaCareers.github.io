@@ -1138,6 +1138,7 @@ contact__social-link:hover{
   }
   .home__name{
     align-self: flex-end;
+    
   }
   .home__info{
     margin-top: 0;
@@ -1148,6 +1149,7 @@ contact__social-link:hover{
     font-size: var(--h5-font-size);
     margin-bottom: 5.5rem;
     padding-left: 3rem;
+    text-align: justify;
   }
   .home__description::after{
     content: '';
@@ -1248,6 +1250,7 @@ contact__social-link:hover{
   .about__description{
     font-size: var(--h3-font-size);
     margin-bottom: 2rem;
+    text-align: center;
   }
   .about__description::after{
     width: 32px;
